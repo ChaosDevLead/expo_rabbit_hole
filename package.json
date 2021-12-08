@@ -1,7 +1,7 @@
 {
   "name": "expo_rabbit",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "D:/Desktop/chaos_hub/js/index.js",
   "scripts": {
     "android": "expo run:android",
     "ios": "expo run:ios",
@@ -21,7 +21,9 @@
     "react-native-safe-area-context": "3.3.2",
     "react-native-screens": "~3.8.0",
     "react-native-web": "0.17.1",
-    "react-native-webview": "11.13.0"
+    "react-native-webview": "11.13.0",
+    "expo-auth-session": "~3.4.2",
+    "expo-random": "~12.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
